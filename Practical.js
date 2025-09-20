@@ -17,3 +17,8 @@ var sum = Number(num1) + Number(num2);
 alert("The sum of " + num1 + " and " + num2 + " is " + sum + ".");
 
 //Question 5
+var drink = prompt("Enter your favorite drink");
+alert("Great choice! " + drink + " is refreshing.");
+
+var quantity = prompt("Please enter  your quantity number");
+alert("You ordered " + quantity + " of " + drink + " .Thank you!");
